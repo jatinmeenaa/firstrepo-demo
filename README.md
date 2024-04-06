@@ -1,3 +1,3 @@
 # firstrepo-demo
 first repositary
-author jatin meena
+author jatin meena chandge
